@@ -1,0 +1,19 @@
+[
+    {
+        "username": "Steven",
+        "password_hash": "02cfdae30b856f4f9e373589b21e726dc7106fe8a59ab2bf7da700fd76b2ca41",
+        "balance": 10000,
+        "invested": {}
+    },
+    {
+        "username": "FilipG",
+        "password_hash": "0e8d7957a8a4b6ed5ca268af64502a2a200361ca80613967f75ac6301d52fd6e",
+        "balance": 8500,
+        "invested": {
+            "AAPL": {
+                "amount": 1500,
+                "purchase_price_per_share": 221.7
+            }
+        }
+    }
+]
