@@ -1,4 +1,5 @@
 Stock Exchange Simulator
+
 Video Demo: <URL https://youtu.be/PJcbXocgjJE>
 Description:
 A simple stock trading simulation that lets users register, log in, check their balance, and trade a selection of NASDAQ stocks. User data, including balance and transactions, is stored in a JSON file to save progress between sessions.
